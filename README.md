@@ -1,8 +1,8 @@
 ### Hi there, I'm Fernanda!
 
-- 🎆 Trabalho como desenvolvedora
-- 🎇 Estou aprendendo banco de dados e Java
-- ✨ Curso Sistemas de Informação pela Unisinos
+- Trabalho como desenvolvedora
+- Estou aprendendo banco de dados e Java
+- Curso Sistemas de Informação pela Unisinos
 
 <div align="center">
   <a href="https://github.com/Fenandax">
