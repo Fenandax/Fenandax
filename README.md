@@ -2,7 +2,6 @@
 
 ##
 
-- Trabalho como desenvolvedora
 - Estou aprendendo banco de dados e Java
 - Curso Sistemas de Informação pela Unisinos
 
